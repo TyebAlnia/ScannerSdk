@@ -1,0 +1,6 @@
+@ScannerSdk.Aget_HostAddress = http://localhost:5036
+
+GET {{ScannerSdk.Aget_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

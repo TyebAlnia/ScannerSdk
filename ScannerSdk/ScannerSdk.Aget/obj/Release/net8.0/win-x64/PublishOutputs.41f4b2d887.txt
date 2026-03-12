@@ -1,0 +1,13 @@
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.Agent.exe
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.Agent.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.Agent.deps.json
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.Agent.runtimeconfig.json
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.Agent.pdb
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk.Aget\obj\Release\net8.0\win-x64\PubTmp\Out\ScannerSdk.pdb

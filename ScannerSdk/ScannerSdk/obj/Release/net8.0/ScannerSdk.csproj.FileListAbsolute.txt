@@ -1,0 +1,13 @@
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\bin\Release\net8.0\ScannerSdk.deps.json
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\bin\Release\net8.0\ScannerSdk.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\bin\Release\net8.0\ScannerSdk.pdb
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\Interop.WIA.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.csproj.ResolveComReference.cache
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.AssemblyInfoInputs.cache
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.AssemblyInfo.cs
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.csproj.CoreCompileInputs.cache
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\refint\ScannerSdk.dll
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ScannerSdk.pdb
+D:\alnia\Ecom\ScannerSdk\ScannerSdk\obj\Release\net8.0\ref\ScannerSdk.dll

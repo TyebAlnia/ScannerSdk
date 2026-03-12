@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\alnia\\Ecom\\ScannerSdk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk\\scannersdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|solutionrelative:scannersdk\\scannersdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk\\models\\scanoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|solutionrelative:scannersdk\\models\\scanoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk\\drivers\\wiascannerdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|solutionrelative:scannersdk\\drivers\\wiascannerdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk\\managers\\scannermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|solutionrelative:scannersdk\\managers\\scannermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk\\interfaces\\iscannerdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF066D3-A457-4D2F-9AF8-09BE33E77139}|ScannerSdk\\ScannerSdk.csproj|solutionrelative:scannersdk\\interfaces\\iscannerdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E5D9F-CD95-47E6-97D8-E8DA05E61AC4}|ScannerSdk.Aget\\ScannerSdk.Aget.csproj|d:\\alnia\\ecom\\scannersdk\\scannersdk.aget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E5D9F-CD95-47E6-97D8-E8DA05E61AC4}|ScannerSdk.Aget\\ScannerSdk.Aget.csproj|solutionrelative:scannersdk.aget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScannerSdk",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\ScannerSdk.csproj",
+              "RelativeDocumentMoniker": "ScannerSdk\\ScannerSdk.csproj",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\ScannerSdk.csproj",
+              "RelativeToolTip": "ScannerSdk\\ScannerSdk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T07:18:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanOptions.cs",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Models\\ScanOptions.cs",
+              "RelativeDocumentMoniker": "ScannerSdk\\Models\\ScanOptions.cs",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Models\\ScanOptions.cs",
+              "RelativeToolTip": "ScannerSdk\\Models\\ScanOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:14:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScannerManager.cs",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Managers\\ScannerManager.cs",
+              "RelativeDocumentMoniker": "ScannerSdk\\Managers\\ScannerManager.cs",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Managers\\ScannerManager.cs",
+              "RelativeToolTip": "ScannerSdk\\Managers\\ScannerManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:13:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScannerDriver.cs",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Interfaces\\IScannerDriver.cs",
+              "RelativeDocumentMoniker": "ScannerSdk\\Interfaces\\IScannerDriver.cs",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Interfaces\\IScannerDriver.cs",
+              "RelativeToolTip": "ScannerSdk\\Interfaces\\IScannerDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:13:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WiaScannerDriver.cs",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Drivers\\WiaScannerDriver.cs",
+              "RelativeDocumentMoniker": "ScannerSdk\\Drivers\\WiaScannerDriver.cs",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk\\Drivers\\WiaScannerDriver.cs",
+              "RelativeToolTip": "ScannerSdk\\Drivers\\WiaScannerDriver.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:12:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk.Aget\\Program.cs",
+              "RelativeDocumentMoniker": "ScannerSdk.Aget\\Program.cs",
+              "ToolTip": "D:\\alnia\\Ecom\\ScannerSdk\\ScannerSdk.Aget\\Program.cs",
+              "RelativeToolTip": "ScannerSdk.Aget\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:43:48.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
